@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 406d47a31ca085544857fd7390d3a826
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - HoverColor: {instanceID: 0}
+  - OnColor: {instanceID: 0}
+  - OffColor: {instanceID: 0}
+  - label: {instanceID: 0}
+  - MenuButtonPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

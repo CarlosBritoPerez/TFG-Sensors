@@ -1,0 +1,326 @@
+{ 	"date": "2023-07-05T23:59:59",
+	"sensor":
+	[{
+		"id": 1,
+		"location": {"coordinates": [-15.6876, 28.1662]},		
+		"data": {
+			"temperature": 30.0,
+			"humidity": 30.0,
+			"ambientLight": 50000.0,
+			"pressure": 70.0,
+			"soundNoise": 70.0,
+			"eTVOC": 0.0,
+			"eCO2": 0.0,
+			"discomfort": 0.0,
+			"heatStroke": 0.0,
+			"vibration": 0.0,
+			"siValue": 0.0,
+			"pga": 0.0,
+			"seismicIntensity": 0.0
+		}
+	},
+	{
+		"id": 2,
+		"location": {"coordinates": [-15.5261, 28.1486]},		
+		"data": {
+			"temperature": 20.0,
+			"humidity": 40.0,
+			"ambientLight": 50000.0,
+			"pressure": 60.0,
+			"soundNoise": 70.0,
+			"eTVOC": 0.0,
+			"eCO2": 0.0,
+			"discomfort": 0.0,
+			"heatStroke": 0.0,
+			"vibration": 0.0,
+			"siValue": 0.0,
+			"pga": 0.0,
+			"seismicIntensity": 0.0
+		}
+	},
+	{
+		"id": 3,
+		"location": {"coordinates": [-15.4207, 28.1647]},		
+		"data": {
+			"temperature": 20.0,
+			"humidity": 40.0,
+			"ambientLight": 50000.0,
+			"pressure": 70.0,
+			"soundNoise": 70.0,
+			"eTVOC": 0.0,
+			"eCO2": 0.0,
+			"discomfort": 0.0,
+			"heatStroke": 0.0,
+			"vibration": 0.0,
+			"siValue": 0.0,
+			"pga": 0.0,
+			"seismicIntensity": 0.0
+		}
+	},
+	{
+		"id": 4,
+		"location": {"coordinates": [-15.4341, 28.0599]},		
+		"data": {
+			"temperature": 20.0,
+			"humidity": 40.0,
+			"ambientLight": 50000.0,
+			"pressure": 80.0,
+			"soundNoise": 70.0,
+			"eTVOC": 0.0,
+			"eCO2": 0.0,
+			"discomfort": 0.0,
+			"heatStroke": 0.0,
+			"vibration": 0.0,
+			"siValue": 0.0,
+			"pga": 0.0,
+			"seismicIntensity": 0.0
+		}
+	},
+	{
+		"id": 5,
+		"location": {"coordinates": [-15.3833, 28.0016]},		
+		"data": {
+			"temperature": 20.0,
+			"humidity": 40.0,
+			"ambientLight": 50000.0,
+			"pressure": 80.0,
+			"soundNoise": 70.0,
+			"eTVOC": 0.0,
+			"eCO2": 0.0,
+			"discomfort": 0.0,
+			"heatStroke": 0.0,
+			"vibration": 0.0,
+			"siValue": 0.0,
+			"pga": 0.0,
+			"seismicIntensity": 0.0
+		}
+	},
+	{
+		"id": 6,
+		"location": {"coordinates": [-15.3942, 27.8653]},		
+		"data": {
+			"temperature": 20.0,
+			"humidity": 40.0,
+			"ambientLight": 50000.0,
+			"pressure": 90.0,
+			"soundNoise": 70.0,
+			"eTVOC": 0.0,
+			"eCO2": 0.0,
+			"discomfort": 0.0,
+			"heatStroke": 0.0,
+			"vibration": 0.0,
+			"siValue": 0.0,
+			"pga": 0.0,
+			"seismicIntensity": 0.0
+		}
+	},
+	{
+		"id": 7,
+		"location": {"coordinates": [-15.4312, 27.8090]},		
+		"data": {
+			"temperature": 20.0,
+			"humidity": 40.0,
+			"ambientLight": 50000.0,
+			"pressure": 90.0,
+			"soundNoise": 70.0,
+			"eTVOC": 0.0,
+			"eCO2": 0.0,
+			"discomfort": 0.0,
+			"heatStroke": 0.0,
+			"vibration": 0.0,
+			"siValue": 0.0,
+			"pga": 0.0,
+			"seismicIntensity": 0.0
+		}
+	},
+	{
+		"id": 8,
+		"location": {"coordinates": [-15.4893, 27.7972]},		
+		"data": {
+			"temperature": 20.0,
+			"humidity": 40.0,
+			"ambientLight": 50000.0,
+			"pressure": 90.0,
+			"soundNoise": 70.0,
+			"eTVOC": 0.0,
+			"eCO2": 0.0,
+			"discomfort": 0.0,
+			"heatStroke": 0.0,
+			"vibration": 0.0,
+			"siValue": 0.0,
+			"pga": 0.0,
+			"seismicIntensity": 0.0
+		}
+	},
+	{
+		"id": 9,
+		"location": {"coordinates": [-15.5887, 27.7544]},		
+		"data": {
+			"temperature": 20.0,
+			"humidity": 40.0,
+			"ambientLight": 50000.0,
+			"pressure": 80.0,
+			"soundNoise": 70.0,
+			"eTVOC": 0.0,
+			"eCO2": 0.0,
+			"discomfort": 0.0,
+			"heatStroke": 0.0,
+			"vibration": 0.0,
+			"siValue": 0.0,
+			"pga": 0.0,
+			"seismicIntensity": 0.0
+		}
+	},
+	{
+		"id": 10,
+		"location": {"coordinates": [-15.6773, 27.7621]},		
+		"data": {
+			"temperature": 20.0,
+			"humidity": 40.0,
+			"ambientLight": 50000.0,
+			"pressure": 80.0,
+			"soundNoise": 70.0,
+			"eTVOC": 0.0,
+			"eCO2": 0.0,
+			"discomfort": 0.0,
+			"heatStroke": 0.0,
+			"vibration": 0.0,
+			"siValue": 0.0,
+			"pga": 0.0,
+			"seismicIntensity": 0.0
+		}
+	},
+	{
+		"id": 11,
+		"location": {"coordinates": [-15.7671, 27.8225]},		
+		"data": {
+			"temperature": 20.0,
+			"humidity": 40.0,
+			"ambientLight": 50000.0,
+			"pressure": 80.0,
+			"soundNoise": 70.0,
+			"eTVOC": 0.0,
+			"eCO2": 0.0,
+			"discomfort": 0.0,
+			"heatStroke": 0.0,
+			"vibration": 0.0,
+			"siValue": 0.0,
+			"pga": 0.0,
+			"seismicIntensity": 0.0
+		}
+	},
+	{
+		"id": 12,
+		"location": {"coordinates": [-15.8203, 27.9303]},		
+		"data": {
+			"temperature": 20.0,
+			"humidity": 40.0,
+			"ambientLight": 50000.0,
+			"pressure": 80.0,
+			"soundNoise": 70.0,
+			"eTVOC": 0.0,
+			"eCO2": 0.0,
+			"discomfort": 0.0,
+			"heatStroke": 0.0,
+			"vibration": 0.0,
+			"siValue": 0.0,
+			"pga": 0.0,
+			"seismicIntensity": 0.0
+		}
+	},
+	{
+		"id": 13,
+		"location": {"coordinates": [-15.8072, 27.9994]},		
+		"data": {
+			"temperature": 20.0,
+			"humidity": 40.0,
+			"ambientLight": 50000.0,
+			"pressure": 100.0,
+			"soundNoise": 70.0,
+			"eTVOC": 0.0,
+			"eCO2": 0.0,
+			"discomfort": 0.0,
+			"heatStroke": 0.0,
+			"vibration": 0.0,
+			"siValue": 0.0,
+			"pga": 0.0,
+			"seismicIntensity": 0.0
+		}
+	},
+	{
+		"id": 14,
+		"location": {"coordinates": [-15.7132, 28.0600]},		
+		"data": {
+			"temperature": 20.0,
+			"humidity": 40.0,
+			"ambientLight": 50000.0,
+			"pressure": 80.0,
+			"soundNoise": 70.0,
+			"eTVOC": 0.0,
+			"eCO2": 0.0,
+			"discomfort": 0.0,
+			"heatStroke": 0.0,
+			"vibration": 0.0,
+			"siValue": 0.0,
+			"pga": 0.0,
+			"seismicIntensity": 0.0
+		}
+	},
+	{
+		"id": 15,
+		"location": {"coordinates": [-15.5451, 28.0602]},		
+		"data": {
+			"temperature": 13.0,
+			"humidity": 40.0,
+			"ambientLight": 50000.0,
+			"pressure": 80.0,
+			"soundNoise": 70.0,
+			"eTVOC": 0.0,
+			"eCO2": 0.0,
+			"discomfort": 0.0,
+			"heatStroke": 0.0,
+			"vibration": 0.0,
+			"siValue": 0.0,
+			"pga": 0.0,
+			"seismicIntensity": 0.0
+		}
+	},
+	{
+		"id": 16,
+		"location": {"coordinates": [-15.5206, 27.9354]},		
+		"data": {
+			"temperature": 10.0,
+			"humidity": 40.0,
+			"ambientLight": 50000.0,
+			"pressure": 70.0,
+			"soundNoise": 70.0,
+			"eTVOC": 0.0,
+			"eCO2": 0.0,
+			"discomfort": 0.0,
+			"heatStroke": 0.0,
+			"vibration": 0.0,
+			"siValue": 0.0,
+			"pga": 0.0,
+			"seismicIntensity": 0.0
+		}
+	},
+	{
+		"id": 17,
+		"location": {"coordinates": [-15.6925, 27.9506]},		
+		"data": {
+			"temperature": 15.0,
+			"humidity": 20.0,
+			"ambientLight": 50000.0,
+			"pressure": 70.0,
+			"soundNoise": 70.0,
+			"eTVOC": 0.0,
+			"eCO2": 0.0,
+			"discomfort": 0.0,
+			"heatStroke": 0.0,
+			"vibration": 0.0,
+			"siValue": 0.0,
+			"pga": 0.0,
+			"seismicIntensity": 0.0
+		}
+	}]
+}
